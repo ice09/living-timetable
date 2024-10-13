@@ -1,0 +1,18 @@
+###
+GET http://localhost:8080/timetable?message=Wann%20ist%20Emilia%20Montag%20zu%20Hause%3F
+###
+GET http://localhost:8080/timetable?message=Haben%20wir%20Montag%20noch%20andere%20Termine%3F
+###
+GET http://localhost:8080/timetable?message=An%20welchem%20Tag%20k%C3%B6nnen%20wir%20alle%20zusammen%20einkaufen%20gehen%2C%20ab%2016%20Uhr%3F
+###
+GET http://localhost:8080/timetable?message=Wann%20ist%20der%20Zahnarzttermin%3F
+###
+GET http://localhost:8080/timetable?message=Wann%20ist%20das%20n%C3%A4chste%20Fussballturnier%3F
+###
+GET http://localhost:8080/timetable?message=Wieviele%20Stunden%20hat%20Simon%20am%20Dienstag%3F%20Wann%20kommt%20er%20nach%20Hause%3F
+###
+GET http://localhost:8080/timetable?message=Wann%20kommt%20Emilia%20am%20Mitwoch%20nach%20Hause%3F%20Wann%20Simon%3F
+###
+GET http://localhost:8080/timetable?message=Wann%20ist%20der%20Elternabend%3F
+###
+GET http://localhost:8080/timetable?message=Wann%20hat%20Simon%20das%20n%C3%A4chste%20Mal%20Sachunterricht%3F
