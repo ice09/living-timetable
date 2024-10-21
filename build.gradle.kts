@@ -30,8 +30,8 @@ dependencies {
 	testImplementation("ch.qos.logback:logback-classic:1.5.8")
 
 	implementation("com.fasterxml.jackson.core:jackson-databind:2.18.0")
-	implementation("dev.langchain4j:langchain4j:0.34.0")
-	implementation("dev.langchain4j:langchain4j-open-ai:0.34.0")
+	implementation("dev.langchain4j:langchain4j:0.35.0")
+	implementation("dev.langchain4j:langchain4j-open-ai:0.35.0")
 }
 
 tasks.withType<Test> {
